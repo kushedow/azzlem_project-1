@@ -1,1 +1,3 @@
-print("file1")
+file = "file"
+for i in file:
+    print(i)
